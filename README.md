@@ -1,7 +1,7 @@
 # Jaffna-College
 Jaffna College
 
-preview ->
+# preview ->
 https://gniruthian.github.io/Jaffna-College/
 
 # Jaffna College Logo
